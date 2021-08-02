@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hemant kumar upadhyay
 - 👀 I’m interested in web designeing
 - 🌱 I’m currently learning javascript html bootstrap pythan
-- 💞️ I’m looking to collaborate on any where how improve my skills and pay me ...
+- 💞️ I’m looking to collaborate on any where who improve my skills and pay me ...
 - 📫 How to reach me  you call me 9759863819 and E-mail id is upadhyayhemant1998@gmail.com
 
 <!---
